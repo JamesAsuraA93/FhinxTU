@@ -1,0 +1,7 @@
+JamesA,22.77
+JamesB,9.52
+JamesC,24.61
+JamesD,25.47
+JamesE,28.93
+JamesF,24.34
+JamesG,16.94
